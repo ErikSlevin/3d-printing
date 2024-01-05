@@ -1,6 +1,6 @@
 
 # Filament Settings
-> Diese Datei wurde zuletzt am 01/05/2024 21:04:31 automatisch generiert.
+> Diese Datei wurde zuletzt am 05.01.2024 21:13:08 automatisch generiert.
 ## eSUN CF Schwarz
 
 - Druckplattenhaftungstyp = brim
