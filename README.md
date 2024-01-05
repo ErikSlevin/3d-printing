@@ -1,6 +1,6 @@
 
 # Filament Settings
-> Diese Datei wurde zuletzt am 05.01.2024 21:13:08 automatisch generiert.
+> Diese Datei wurde zuletzt am 05.01.2024 21:27:31 automatisch generiert.
 ## eSUN CF Schwarz
 
 - Druckplattenhaftungstyp = brim
@@ -70,7 +70,9 @@
 
 - Druckplattenhaftungstyp = Keine
 - Temperatur Druckplatte = 50
-- Fluss = 100
+- Füllmuster = cross_3d
+- Fülldichte = 25
+- Fluss = 92
 - Drucktemperatur = 215
 - Einzugsabstand = 1.2
 - Einzugsgeschwindigkeit = 45
