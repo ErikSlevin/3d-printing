@@ -39,9 +39,17 @@
 - 100% Fluss oben/unten
 - 102% Fluss der ersten Schicht
 
-## Giantarm PETG
+## Giantarm PETG Grau
 - 230°C Düse
 - 80°C Bett
 - 92% Fluss
 - 100% Fluss oben/unten
 - 102% Fluss der ersten Schicht
+
+- ## eSunPETG Schwarz
+- 240°C Düse
+- 80°C Bett
+- 92% Fluss
+- 100% Fluss oben/unten
+- 100% Fluss der ersten Schicht
+
