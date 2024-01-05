@@ -46,7 +46,7 @@
 - 100% Fluss oben/unten
 - 102% Fluss der ersten Schicht
 
-- ## eSunPETG Schwarz
+## eSunPETG Schwarz
 - 240°C Düse
 - 80°C Bett
 - 92% Fluss
